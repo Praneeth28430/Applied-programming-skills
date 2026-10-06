@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
