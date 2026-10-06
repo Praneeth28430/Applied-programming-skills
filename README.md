@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0496-next-greater-element-i](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [1480-running-sum-of-1d-array](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
