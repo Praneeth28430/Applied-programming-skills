@@ -103,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0933-number-of-recent-calls) |
 ## String
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
 |  |
