@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0622-design-circular-queue) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Praneeth28430/Applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Merge Sort
